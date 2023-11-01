@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1697926075 source:c:\users\renzo\documents\utn\programacion 2\appfinanzas\main.cpp
+	"Aplicacion.h"
+
+1698795159 source:c:\users\renzo\documents\utn\programacion 2\appfinanzas\aplicacion.cpp
+	<iostream>
+	"Aplicacion.h"
+	"MovimientoMenu.h"
+
+1697926193 c:\users\renzo\documents\utn\programacion 2\appfinanzas\aplicacion.h
+
+1698804905 source:c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimientomenu.cpp
+	<iostream>
+	"MovimientoMenu.h"
+
+1698795671 c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimientomenu.h
+	"MovimientoManager.h"
+
+1698794881 source:c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimiento.cpp
+	<iostream>
+	<cstring>
+	"Movimiento.h"
+
+1698794833 c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimiento.h
+	<string>
+
+1698805704 source:c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimientoarchivo.cpp
+	<cstdio>
+	"MovimientoArchivo.h"
+	<iostream>
+
+1698790802 c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimientoarchivo.h
+	<string>
+	"Movimiento.h"
+
+1698805722 source:c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimientomanager.cpp
+	<string>
+	<iostream>
+	"Movimiento.h"
+	"MovimientoArchivo.h"
+	"MovimientoManager.h"
+
+1698791230 c:\users\renzo\documents\utn\programacion 2\appfinanzas\movimientomanager.h
+	"MovimientoArchivo.h"
+
