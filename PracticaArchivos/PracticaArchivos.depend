@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1696201422 source:c:\users\renzo\documents\c++\programacion 2\practicaarchivos\alumno.cpp
+	"Alumno.h"
+	<iostream>
+	"FuncionesGlobales.h"
+
+1696191934 source:c:\users\renzo\documents\c++\programacion 2\practicaarchivos\archivo.cpp
+	"Archivo.h"
+	<iostream>
+
+1696099125 source:c:\users\renzo\documents\c++\programacion 2\practicaarchivos\menu.cpp
+
+1696105723 source:c:\users\renzo\documents\c++\programacion 2\practicaarchivos\persona.cpp
+	<iostream>
+	"Persona.h"
+	"FuncionesGlobales.h"
+
+1696098954 c:\users\renzo\documents\c++\programacion 2\practicaarchivos\persona.h
+
+1696100346 c:\users\renzo\documents\c++\programacion 2\practicaarchivos\funcionesglobales.h
+	<cstdio>
+	<iostream>
+
+1696201735 source:c:\users\renzo\documents\c++\programacion 2\practicaarchivos\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"FuncionesGlobales.h"
+	"Archivo.h"
+	"Persona.h"
+	"Alumno.h"
+
+1696114625 c:\users\renzo\documents\c++\programacion 2\practicaarchivos\alumno.h
+	<cstring>
+	"Persona.h"
+
+1696100238 source:c:\users\renzo\documents\c++\programacion 2\practicaarchivos\funcionesglobales.cpp
+	"FuncionesGlobales.h"
+
+1696114681 c:\users\renzo\documents\c++\programacion 2\practicaarchivos\archivo.h
+	<cstring>
+	"Alumno.h"
+	"FuncionesGlobales.h"
+

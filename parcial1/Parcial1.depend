@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696218597 source:c:\users\renzo\documents\c++\programacion 2\parcial1\main.cpp
+	<iostream>
+	<cstring>
+	"parcialm1.h"
+	"punto1.h"
+
+1696216956 c:\users\renzo\documents\c++\programacion 2\parcial1\parcialm1.h
+
+1696220384 c:\users\renzo\documents\c++\programacion 2\parcial1\punto1.h
+
